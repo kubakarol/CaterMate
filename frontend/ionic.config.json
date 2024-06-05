@@ -1,0 +1,7 @@
+{
+  "name": "CaterMate Ionic-Vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

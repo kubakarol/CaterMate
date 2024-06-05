@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q0acAyNdsQCt+8dldFIBnMuvcxKSfqkVF4FGM1BQEf0=",
+  "Source": "CaterMateBackend",
+  "BasePath": "_content/CaterMateBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
